@@ -1,0 +1,15 @@
+E:\MDT211\Student_COdw\bin\Debug\net6.0\Student_COdw.exe
+E:\MDT211\Student_COdw\bin\Debug\net6.0\Student_COdw.deps.json
+E:\MDT211\Student_COdw\bin\Debug\net6.0\Student_COdw.runtimeconfig.json
+E:\MDT211\Student_COdw\bin\Debug\net6.0\Student_COdw.dll
+E:\MDT211\Student_COdw\bin\Debug\net6.0\Student_COdw.pdb
+E:\MDT211\Student_COdw\obj\Debug\net6.0\Student_COdw.csproj.AssemblyReference.cache
+E:\MDT211\Student_COdw\obj\Debug\net6.0\Student_COdw.GeneratedMSBuildEditorConfig.editorconfig
+E:\MDT211\Student_COdw\obj\Debug\net6.0\Student_COdw.AssemblyInfoInputs.cache
+E:\MDT211\Student_COdw\obj\Debug\net6.0\Student_COdw.AssemblyInfo.cs
+E:\MDT211\Student_COdw\obj\Debug\net6.0\Student_COdw.csproj.CoreCompileInputs.cache
+E:\MDT211\Student_COdw\obj\Debug\net6.0\Student_COdw.dll
+E:\MDT211\Student_COdw\obj\Debug\net6.0\refint\Student_COdw.dll
+E:\MDT211\Student_COdw\obj\Debug\net6.0\Student_COdw.pdb
+E:\MDT211\Student_COdw\obj\Debug\net6.0\Student_COdw.genruntimeconfig.cache
+E:\MDT211\Student_COdw\obj\Debug\net6.0\ref\Student_COdw.dll
